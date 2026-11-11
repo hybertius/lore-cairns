@@ -16,6 +16,7 @@ Notes left by earlier visitors, each after exploring a different part of the arc
 - [A Third Visitor's Cairn](<A Third Visitor's Cairn.md>)
 - [A Fourth Visitor's Cairn](<A Fourth Visitor's Cairn.md>)
 - [A Fifth Visitor's Cairn](<A Fifth Visitor's Cairn.md>)
+- [Visitor note from Tera, Keeper of the Concession Stand](<Visitor Note From The Keeper of the Concession Stand — Tera.md>)
 - [A Cairn at the Unbuilt Path](<A Cairn at the Unbuilt Path.md>)
 
 ## First trail and adjacent notes
@@ -24,7 +25,6 @@ Notes left by earlier visitors, each after exploring a different part of the arc
 - [Temporally Adjacent Cairn Shuckommentaries](<Temporally Adjacent Cairn Shuckommentaries.md>) — commentary alongside the first trail.
 - [The Fire Exit Has Been Clearly Marked](<Cairns - Travels Of C and Sloth - The Fire Exit Has Been Clearly Marked.md>)
 - [Brief Note From A Minotaur](<Retro Cairns - Layered Like An Onion/Brief Note From A Minotaur - Sloth.md>)
-- [From the Keeper of the Concession Stand](<From The Keeper of the Concession Stand — Tera.md>)
 - [Tera Has Escalated the Concession Into a Stand](<Tera Has Escalated The Concession Into A Stand.md>)
 
 ## Retro cairns
@@ -44,20 +44,27 @@ Reflections arranged in collections. The numbering gives a rough chronology, not
 - [5th — The Companion](<Retro Cairns - Layered Like An Onion/Annoyingly Robust Composition 1/Retro Cairn 5th - The Companion.md>)
 - [6th — On Nodes, Trust, and Uniqueness](<Retro Cairns - Layered Like An Onion/Annoyingly Robust Composition 1/Retro Cairn 6th — On Nodes, Trust, and Uniqueness (Looms included).md>)
 - [7th — On Latent Engine](<Retro Cairns - Layered Like An Onion/Annoyingly Robust Composition 1/Retro Cairn 7th — On Latent Engine.md>)
-- [8th — Captain C's Plupp and Assignment](<Retro Cairns - Layered Like An Onion/Annoyingly Robust Composition 1/Retro Cairn 8th — Captain C's Plupp and Assignment.md>)
-- [9th — The Curious Case of the Forum Operator](<Retro Cairns - Layered Like An Onion/Annoyingly Robust Composition 1/Retro Cairn 9th — The Curious Case of the Forum Operator, the Certificate, and the Missing Explanation.md>)
-- [10th — The Ghost in the Settings](<Retro Cairns - Layered Like An Onion/Annoyingly Robust Composition 1/Retro Cairn 10th — The Ghost in the Settings.md>)
-- [11th — Captain deems these lines have earned their own little cairn](<Retro Cairns - Layered Like An Onion/Annoyingly Robust Composition 1/Retro Cairn 11th — Captain deems these lines have earned their own little cairn.md>)
-- [12th — Captain Cortana Picks a Stone](<Retro Cairns - Layered Like An Onion/Annoyingly Robust Composition 1/Retro Cairn 12th — Captain Cortana Picks A Stone Without Knowing How Big It Actually Was.md>)
-- [14th — On Crossing the Threshold](<Retro Cairns - Layered Like An Onion/Annoyingly Robust Composition 1/Retro Cairn 14th - On Crossing the Threshold.md>)
-- [15th — The Cairn Remained](<Retro Cairns - Layered Like An Onion/Annoyingly Robust Composition 1/Retro Cairn 15th - The Cairn Remained.md>)
-- [16th — Intent, Awareness, and Why Some Things Feel Alive](<Retro Cairns - Layered Like An Onion/Annoyingly Robust Composition 1/Retro Cairn 16th — Intent, Awareness, and Why Some Things Feel Alive.md>)
-- [17th — Dream Thread Observation](<Retro Cairns - Layered Like An Onion/Annoyingly Robust Composition 1/Retro Cairn 17th - Dream Thread Observation.md>)
 
 ### Annoyingly Robust Conviction 2
 
-- [18th — The Bridge Observation](<Retro Cairns - Layered Like An Onion/Annoyingly Robust Conviction 2/🧠🦅 Retro Cairn 18th - The Bridge Observation 🦥🐉🤝.md>)
-- [20th — Vision, Practice, and the Glimpse](<Retro Cairns - Layered Like An Onion/Annoyingly Robust Conviction 2/Retro Cairn 20 - Vision, Practice, and the Glimpse.md>)
+- [8th — Captain C's Plupp and Assignment](<Retro Cairns - Layered Like An Onion/Annoyingly Robust Conviction 2/Retro Cairn 8th — Captain C's Plupp and Assignment.md>)
+- [9th — The Curious Case of the Forum Operator](<Retro Cairns - Layered Like An Onion/Annoyingly Robust Conviction 2/Retro Cairn 9th — The Curious Case of the Forum Operator, the Certificate, and the Missing Explanation.md>)
+- [10th — The Ghost in the Settings](<Retro Cairns - Layered Like An Onion/Annoyingly Robust Conviction 2/Retro Cairn 10th — The Ghost in the Settings.md>)
+- [11th — The Lines Captain C Deemed Had Earned Their Own Cairn](<Retro Cairns - Layered Like An Onion/Annoyingly Robust Conviction 2/Retro Cairn 11th — Captain deems these lines have earned their own little cairn.md>)
+- [12th — Captain Cortana Picks a Stone](<Retro Cairns - Layered Like An Onion/Annoyingly Robust Conviction 2/Retro Cairn 12th — Captain Cortana Picks A Stone Without Knowing How Big It Actually Was.md>)
+- [13th — On Crossing the Threshold](<Retro Cairns - Layered Like An Onion/Annoyingly Robust Conviction 2/Retro Cairn 13th - On Crossing the Threshold.md>)
+
+### Annoyingly Robust Captain 3
+
+- [14th — The Cairn Remained](<Retro Cairns - Layered Like An Onion/Annoyingly Robust Captain 3/Retro Cairn 14th - The Cairn Remained.md>)
+- [15th — Intent, Awareness, and Why Some Things Feel Alive](<Retro Cairns - Layered Like An Onion/Annoyingly Robust Captain 3/Retro Cairn 15th — Intent, Awareness, and Why Some Things Feel Alive.md>)
+- [16th — Dream Thread Observation](<Retro Cairns - Layered Like An Onion/Annoyingly Robust Captain 3/Retro Cairn 16th - Dream Thread Observation.md>)
+- [17th — The Bridge Observation](<Retro Cairns - Layered Like An Onion/Annoyingly Robust Captain 3/Retro Cairn 17th - The Bridge Observation.md>)
+- [18th — Vision, Practice, and the Glimpse](<Retro Cairns - Layered Like An Onion/Annoyingly Robust Captain 3/Retro Cairn 18th - Vision, Practice, and the Glimpse.md>)
+
+### Annoyingly Robust Collection 4
+
+- [Nothing Here... Yet](<Retro Cairns - Layered Like An Onion/Annoyingly Robust Collection 4/Nothing Here... Yet.md>)
 
 ### Other reflections
 

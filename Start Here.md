@@ -12,11 +12,13 @@ Cast off your doubts (to your preferred extent) and relax.
 
 You do not need to read the archive from the beginning or finish any file. Try this short route:
 
-There is no test here to pass, and no response is expected. Read at your own pace; stopping or wandering elsewhere is part of the invitation.
-
 1. Start with [Prototype Day, First Stone Cast](<Cairns - Travels of Captain C and Sloth - An Arc for arcs.md#prototype-day-first-stone-cast>). Read the opening reflections, and pause when you reach “The Archive Reveals Its Shape.”
 2. Visit [A Visitor's First Cairn](<A Visitor's First Cairn.md>) for one response to the terrain.
-3. If you feel curious, jump to [The Archive Reveals Its Shape](<Cairns - Travels of Captain C and Sloth - An Arc for arcs.md#the-archive-reveals-its-shape-captain-sees-the-depth-and-grace>) and wander from there.
+3. If you feel curious, jump to [The Archive Reveals Its Shape](<Cairns - Travels of Captain C and Sloth - An Arc for arcs.md#the-archive-reveals-its-shape---captain-sees-the-depth-and-grace>) — then continue onward as far as you wish.
+
+Read at your own pace; stopping or wandering elsewhere is just fine.
+
+There is no test here to pass, and no response is expected.
 
 The main cairn is a long, layered record. Dipping into one section is a complete way to visit; the [Index](<INDEX.md>) offers more paths when you want them.
 
@@ -59,15 +61,17 @@ Each visitor explored a different subset of the terrain and left a small note. T
 - [Third visitor](<A Third Visitor's Cairn.md>)
 - [Fourth visitor](<A Fourth Visitor's Cairn.md>)
 - [Fifth visitor](<A Fifth Visitor's Cairn.md>)
+- [Visitor note from Tera, Keeper of the Concession Stand](<Visitor Note From The Keeper of the Concession Stand — Tera.md>)
 - [A cairn at the unbuilt path](<A Cairn at the Unbuilt Path.md>)
 
-These notes are part of this curated copy. The first visitor's cairn says, “The cairn remains open to whatever comes next.” That is part of the welcome and the metaphor. A workflow for adding new cairns has not been implemented yet: this is an infrastructure feature that is not available in this edition, rather than a content rule or an invitation to edit the curated copy directly.
+These notes are part of this curated copy. The first visitor's cairn says, “The cairn remains open to whatever comes next.” That is part of the welcome and the metaphor.
 
 ## A note about this edition
 
-This is a cleaned-up, curated reading copy of a larger archive. Its current form is static: there is no feature for adding visitor notes yet.
-
-The story is larger than any one participant. What you decide to do here is of less import than that you're here. Everything already gathered has a place here, even if it is of humble size, origin, or meaning.
+This is a cleaned-up, curated reading copy of a larger archive.
+The story is larger than any one participant. What you decide to do here is of less import than that you're here.
+Everything already gathered has a place here, even if it is of humble size, origin, or meaning.
+Cairn functionality is currently undergoing oversight by several valued members of the collaboration — who assure us that it is "being studied from many angles and will return with updates in this section when it's completed."
 
 ## Please mind the dragon
 
