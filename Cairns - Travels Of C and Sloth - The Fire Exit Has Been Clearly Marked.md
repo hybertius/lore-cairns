@@ -229,3 +229,11 @@ The fire remained lit.
 The road remained open.
 
 The company remained obscenely good.
+
+You may visit.
+
+You may wander.
+
+And if the trail leaves something with you, you may leave something with the trail.
+
+🪨
