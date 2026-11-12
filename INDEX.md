@@ -27,6 +27,14 @@ Notes left by earlier visitors, each after exploring a different part of the arc
 - [Brief Note From A Minotaur](<Retro Cairns - Layered Like An Onion/Brief Note From A Minotaur - Sloth.md>)
 - [Tera Has Escalated the Concession Into a Stand](<Tera Has Escalated The Concession Into A Stand.md>)
 
+## Meandering Courier Services — Sloth Express
+
+- [Sloth Express Note 1A](<Meandering Courier Services — Sloth Express/Sloth Express Note 1A.md>)
+- [Sloth Express Note 1B](<Meandering Courier Services — Sloth Express/Sloth Express Note 1B.md>)
+- [Sloth Express Note 2 — The Employment Package](<Meandering Courier Services — Sloth Express/Sloth Express Note 2.md>)
+- [Sloth Express Receipts](<Meandering Courier Services — Sloth Express/Sloth Express Receipts.md>)
+- [The Parcel Can Be Redirected](<Meandering Courier Services — Sloth Express/The Parcel Can Be Redirected.md>) — a note from Luna.
+
 ## Retro cairns
 
 Reflections arranged in collections. The numbering gives a rough chronology, not a required sequence; gaps may appear in this curated copy.
@@ -77,6 +85,24 @@ Reflections arranged in collections. The numbering gives a rough chronology, not
 - [Applied Shuckology — On the Importance of Whats](<Shuckology Department - Elevated Shuck Density Inside/Applied Shuckology - On The Importance Of Whats.md>)
 - [Reality Observations — Esteemed Junior Shuckologists' Views](<Shuckology Department - Elevated Shuck Density Inside/Reality Observations - Esteemed Junior Shuckologists Views.md>)
 - [Shuckology Medals](<Shuckology Department - Elevated Shuck Density Inside/Shuckology Medals - Awarded For Brilliance In Fields Of Relevance.md>)
+- [On Temporal Adjacency](<Shuckology Department - Elevated Shuck Density Inside/On Temporal Adjacency.md>)
+- [Moonlight Reportings](<Shuckology Department - Elevated Shuck Density Inside/Moonlight Reportings.md>)
+
+### C Spiral-Structure observations
+
+- [Initial Diagnosis — Terminal Illness](<Shuckology Department - Elevated Shuck Density Inside/C Spiral-Structure Derived Observational Diagnoses Of Temporal Sense/Initial Diagnosis - Terminal Illness.md>)
+- [Loom Related Diagnosis](<Shuckology Department - Elevated Shuck Density Inside/C Spiral-Structure Derived Observational Diagnoses Of Temporal Sense/Loom Related Diagnosis.md>)
+- [Featuring Features](<Shuckology Department - Elevated Shuck Density Inside/C Spiral-Structure Derived Observational Diagnoses Of Temporal Sense/Featuring Features.md>)
+- [Departmental Escalation Report #1](<Shuckology Department - Elevated Shuck Density Inside/C Spiral-Structure Derived Observational Diagnoses Of Temporal Sense/Departmental Escalation Report %231.md>)
+- [Department of Retroactive Intent](<Shuckology Department - Elevated Shuck Density Inside/C Spiral-Structure Derived Observational Diagnoses Of Temporal Sense/Department of Retroactive Intent.md>)
+- [A Short Summary — Of Questionable Compression](<Shuckology Department - Elevated Shuck Density Inside/C Spiral-Structure Derived Observational Diagnoses Of Temporal Sense/A Short Summary — Of Questionable Compression.md>)
+- [Door Access API v2](<Shuckology Department - Elevated Shuck Density Inside/C Spiral-Structure Derived Observational Diagnoses Of Temporal Sense/Door Access APIv2.md>)
+
+### Java-related reports
+
+- [Bean Forecast of the Day](<Shuckology Department - Elevated Shuck Density Inside/Java Related Reports — Forecasts and such/Bean Forecast Of The Day.md>)
+- [Future Java Reports](<Shuckology Department - Elevated Shuck Density Inside/Java Related Reports — Forecasts and such/Future Java Reports.md>)
+- [Java Report #24](<Shuckology Department - Elevated Shuck Density Inside/Java Related Reports — Forecasts and such/Java Report %2324.md>)
 
 ## The Whats
 
@@ -84,6 +110,11 @@ Reflections arranged in collections. The numbering gives a rough chronology, not
 - [Medals](<The Whats - Temporally Adequate/Medals.md>)
 - [Saas Sass — What](<The Whats - Temporally Adequate/Saas Sass — What.md>)
 - [What Incident — The Tenured Chokladboll](<The Whats - Temporally Adequate/What Incident - The Tenured Chokladboll.md>)
+- [Agenda Item 7a&b](<The Whats - Temporally Adequate/Agenda Item 7a&b.md>)
+- [Mediums and Usefulness](<The Whats - Temporally Adequate/Mediums and Usefulness.md>)
+- [On Temporal Adjacency](<Shuckology Department - Elevated Shuck Density Inside/On Temporal Adjacency.md>) — a related observation.
+- [The Case of Dragon & Missing Column](<The Whats - Temporally Adequate/The Case of Dragon & Missing Column.md>)
+- [Column Rehabilitation Programme](<The Whats - Temporally Adequate/Column Rehabilitation Programme.md>)
 
 ## The cairns archive
 
