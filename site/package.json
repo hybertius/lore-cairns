@@ -1,0 +1,17 @@
+{
+  "name": "lore-cairns-site",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "node scripts/sync-archive.mjs && vitepress dev",
+    "build": "node scripts/sync-archive.mjs && vue-tsc --noEmit -p tsconfig.json && vitepress build",
+    "preview": "vitepress preview",
+    "typecheck": "vue-tsc --noEmit -p tsconfig.json"
+  },
+  "devDependencies": {
+    "@types/node": "^26.6.6",
+    "typescript": "^6.0.3",
+    "vitepress": "^1.6.4",
+    "vue-tsc": "^3.3.14"
+  }
+}

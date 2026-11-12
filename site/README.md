@@ -57,9 +57,11 @@ deploys the generated files. In the repository settings, set **Pages → Build
 and deployment → Source** to **GitHub Actions**.
 
 GitHub Pages serves the static site; there is no server for you to run.
-Formspree remains the separate managed form handler. Once its endpoint is
-ready, add `VITE_STONE_SUBMISSION_ENDPOINT` as a repository Actions variable
-under **Settings → Secrets and variables → Actions → Variables**. It is a
-public endpoint URL, not a secret. If it is unset, the form remains disabled.
-The expected site URL is `https://hybertius.github.io/lore-cairns/` once Pages
-is enabled and the workflow has completed.
+Formspree remains the separate managed form handler. The Pages workflow sets
+`VITE_STONE_SUBMISSION_ENDPOINT` to the public form URL; no Actions variable is
+needed. That endpoint is visible in the built site by design, but the inbox
+address, passwords, and API credentials must stay out of the repository. The
+form remains disabled in local builds unless `site/.env.local` sets the
+endpoint. The expected site URL is
+`https://hybertius.github.io/lore-cairns/` once Pages is enabled and the
+workflow has completed.

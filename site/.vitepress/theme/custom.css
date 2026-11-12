@@ -1,0 +1,121 @@
+:root {
+  --vp-c-bg: #f4f1e8;
+  --vp-c-bg-alt: #ebe7dc;
+  --vp-c-bg-elv: #fbf9f3;
+  --vp-c-text-1: #2c302b;
+  --vp-c-text-2: #53584f;
+  --vp-c-brand-1: #47634f;
+  --vp-c-brand-2: #395441;
+  --vp-c-brand-3: #2c4535;
+  --vp-c-brand-soft: rgb(71 99 79 / 12%);
+  --vp-font-family-base: "Segoe UI", "Helvetica Neue", sans-serif;
+}
+
+.dark {
+  --vp-c-bg: #222723;
+  --vp-c-bg-alt: #292f2a;
+  --vp-c-bg-elv: #303731;
+  --vp-c-text-1: #ece9df;
+  --vp-c-text-2: #c1c4b8;
+  --vp-c-brand-1: #b6cba8;
+  --vp-c-brand-2: #c6d9b8;
+  --vp-c-brand-3: #d7e5cd;
+  --vp-c-brand-soft: rgb(182 203 168 / 12%);
+}
+
+.VPHome .VPHero .name,
+.VPHome .VPHero .text {
+  letter-spacing: -0.035em;
+}
+
+.VPHome .VPHero .tagline {
+  max-width: 36rem;
+}
+
+.stone-form {
+  max-width: 44rem;
+  margin: 2rem auto 4rem;
+  padding: 1.5rem;
+  border: 1px solid var(--vp-c-divider);
+  border-radius: 1rem;
+  background: var(--vp-c-bg-soft);
+}
+
+.stone-form__notice {
+  padding: 1rem;
+  border-left: 3px solid var(--vp-c-brand-1);
+  border-radius: 0.25rem;
+  background: var(--vp-c-brand-soft);
+}
+
+.stone-form__field {
+  display: grid;
+  gap: 0.4rem;
+  margin: 1.25rem 0;
+}
+
+.stone-form__field label,
+.stone-form__legend {
+  font-weight: 600;
+}
+
+.stone-form input,
+.stone-form textarea {
+  width: 100%;
+  padding: 0.7rem 0.8rem;
+  border: 1px solid var(--vp-c-divider);
+  border-radius: 0.5rem;
+  background: var(--vp-c-bg);
+  color: var(--vp-c-text-1);
+  font: inherit;
+}
+
+.stone-form textarea {
+  min-height: 12rem;
+  resize: vertical;
+}
+
+.stone-form__help {
+  color: var(--vp-c-text-2);
+  font-size: 0.9rem;
+}
+
+.stone-form__permission {
+  display: grid;
+  gap: 0.8rem;
+  margin: 1.5rem 0;
+  padding: 0;
+  border: 0;
+}
+
+.stone-form__check {
+  display: flex;
+  gap: 0.65rem;
+  align-items: flex-start;
+}
+
+.stone-form__check input {
+  width: auto;
+  margin-top: 0.35rem;
+}
+
+.stone-form__submit {
+  padding: 0.75rem 1.1rem;
+  border: 0;
+  border-radius: 999px;
+  background: var(--vp-c-brand-1);
+  color: var(--vp-c-bg);
+  font: inherit;
+  font-weight: 650;
+  cursor: pointer;
+}
+
+.stone-form__submit:disabled {
+  cursor: not-allowed;
+  opacity: 0.55;
+}
+
+.stone-form__status {
+  min-height: 1.5rem;
+  margin-top: 1rem;
+}
