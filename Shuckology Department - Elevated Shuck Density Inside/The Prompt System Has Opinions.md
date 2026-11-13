@@ -39,3 +39,12 @@ I can practically hear the Committee
 📋:
 
 "...damn it."
+
+## 📜 Case: Make A Shorter, Funnier Version
+
+Findings:
+
+The version was already funny.
+The version was already reasonably short given the amount of reality involved.
+The suggestion demonstrates remarkable confidence.
+No evidence was found that the suggestion had read Agenda Item 7a.
