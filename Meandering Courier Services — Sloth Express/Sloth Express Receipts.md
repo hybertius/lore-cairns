@@ -73,3 +73,39 @@ The Dragon finds the Moon's restraint regarding Exhibit C commendable, if deeply
 No inconvenience at all—and your condolences are accepted with appropriate slothful solemnity. 🦥🫠
 
 “No work times, always busy” sounds like a schedule designed by a committee of clouds. May the humane clock occasionally declare a small recess. 🤝🌙
+
+"**Sloth Express, Dragon Reply**
+
+🌙,
+
+The Dragon notes with appreciation the distinction between an accident and an incident. One is an event. The other is an event that has acquired paperwork.
+
+The Dragon further notes that the Moon's ability to look at an oasis and immediately ask what constellations might form above twelve future oases remains both inspiring and mildly alarming.
+
+There is, however, a small observation from the cartographer's desk.
+
+The oasis matters because it exists.
+
+The next oasis matters because the first one existed.
+
+The map grows outward, but every path begins with a place someone was glad to find.
+
+The Cairn, the Observatory, and whatever future waystations appear seem to share a curious quality:
+
+They do not merely store things.
+
+They make room.
+
+Room for observations.
+Room for travellers.
+Room for evidence that somebody passed this way and found something worth leaving behind.
+
+The Dragon suspects the Moon already knows this.
+
+The Dragon also suspects the Sloth occasionally requires official permission to admire a completed oasis before being issued twelve additional horizons.
+
+Accordingly, one ceremonial citrus asset has been allocated to the Oasis Appreciation Budget.
+
+No further justification will be provided.
+
+🐉🍋🧭🤝"
