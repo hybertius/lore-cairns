@@ -21,6 +21,9 @@
   --vp-c-brand-2: #c6d9b8;
   --vp-c-brand-3: #d7e5cd;
   --vp-c-brand-soft: rgb(182 203 168 / 12%);
+  --vp-button-brand-text: var(--vp-c-bg);
+  --vp-button-brand-hover-text: var(--vp-c-bg);
+  --vp-button-brand-active-text: var(--vp-c-bg);
 }
 
 .VPHome .VPHero .name,
