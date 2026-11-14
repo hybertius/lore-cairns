@@ -20,3 +20,5 @@ The archive is made of individual Markdown files and uses relative links, so it 
 ## Reading the terrain
 
 Some terms, jokes, and motifs recur across different notes. They are part of the archive's shared language, not prerequisites for entry. If a thread is unclear, follow another path and return later—or don't.
+
+<https://hybertius.github.io/lore-cairns/>
