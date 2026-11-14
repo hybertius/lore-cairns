@@ -8,7 +8,7 @@ It is not a book that needs to be read from beginning to end. The notes can be e
 
 ## About adding cairns
 
-This edition is currently static. A workflow for adding new visitor cairns has not been implemented yet; it is an infrastructure feature that is not available here, rather than a content rule. The visitor notes already present are part of this curated copy.
+This edition is static, and the visitor notes already present are part of this curated copy. The site offers a [Leave a Stone form](https://hybertius.github.io/lore-cairns/leave-a-stone.html) for private review when its submission endpoint is configured. Submissions are not published automatically, and publication requires permission.
 
 ## Find your way in
 
