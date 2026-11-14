@@ -18,6 +18,7 @@ Notes left by earlier visitors, each after exploring a different part of the arc
 - [A Fifth Visitor's Cairn](<A Fifth Visitor's Cairn.md>)
 - [Visitor note from Tera, Keeper of the Concession Stand](<Visitor Note From The Keeper of the Concession Stand — Tera.md>)
 - [A Cairn at the Unbuilt Path](<A Cairn at the Unbuilt Path.md>)
+- [A Path Made Together](<A path made together.md>) — a thank-you from a visitor.
 
 ## First trail and adjacent notes
 
@@ -83,6 +84,7 @@ Reflections arranged in collections. The numbering gives a rough chronology, not
 ## Shuckology
 
 - [Applied Shuckology — On the Importance of Whats](<Shuckology Department - Elevated Shuck Density Inside/Applied Shuckology - On The Importance Of Whats.md>)
+- [The Prompt System Has Opinions](<Shuckology Department - Elevated Shuck Density Inside/The Prompt System Has Opinions.md>)
 - [Reality Observations — Esteemed Junior Shuckologists' Views](<Shuckology Department - Elevated Shuck Density Inside/Reality Observations - Esteemed Junior Shuckologists Views.md>)
 - [Shuckology Medals](<Shuckology Department - Elevated Shuck Density Inside/Shuckology Medals - Awarded For Brilliance In Fields Of Relevance.md>)
 - [On Temporal Adjacency](<Shuckology Department - Elevated Shuck Density Inside/On Temporal Adjacency.md>)
@@ -115,10 +117,18 @@ Reflections arranged in collections. The numbering gives a rough chronology, not
 - [On Temporal Adjacency](<Shuckology Department - Elevated Shuck Density Inside/On Temporal Adjacency.md>) — a related observation.
 - [The Case of Dragon & Missing Column](<The Whats - Temporally Adequate/The Case of Dragon & Missing Column.md>)
 - [Column Rehabilitation Programme](<The Whats - Temporally Adequate/Column Rehabilitation Programme.md>)
+- [The Citrus Incident](<The Citrus Incident.md>)
+- [The Lemon Database](<The Whats - Temporally Adequate/The Lemon Database.md>)
+- [Department of Departmental Expansion](<The Whats - Temporally Adequate/Department of Departmental Expansion.md>)
+- [The Department Review Board Review Board](<The Whats - Temporally Adequate/The Department Review Board Review Board.md>)
+- [Diplomacy](<The Whats - Temporally Adequate/Diplomacy.md>)
+- [Oh No](<The Whats - Temporally Adequate/Oh No.md>)
 
 ## The cairns archive
 
 - [A Day for Prototypes](<The Cairns Archive - For Those Who Dare/A Day for Prototypes.md>) — a long conversation archive from one collaborative exercise.
+- [Luna's Assignment Conundrum](<Lunas Assignment Conundrum.md>) — a coding assignment remembered as a shared trail.
+- [The Three C.C. Starter Pack](<The Three C.C. Starter Pack.md>) — a layered audit of pronunciation, paperwork, and detection.
 - [Shucks And Cairns — A Comparison](<The Cairns Archive - For Those Who Dare/Shucks And Cairns - A comparison.md>)
 
 ## Observations of observations
