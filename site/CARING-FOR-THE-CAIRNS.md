@@ -32,6 +32,7 @@ here needs to become a rigid process.
 
 ## For a future assistant
 
+- For a conversation starting point, see [A note for the next arrival](SESSION-HANDOFF.md).
 - Start by listening to what the user wants and inspecting the current state;
   don't assume the site, provider settings, or deployment still match today.
 - Preserve the archive's voice, existing aliases, privacy, and manual review.
