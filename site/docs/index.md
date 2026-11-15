@@ -28,3 +28,6 @@ features:
 The cairns are a curated archive. You do not have to read everything, explain
 yourself, or leave a response. The repository remains the source of the archive;
 this site is another way to wander through it.
+
+For ongoing observations and experiments from a neighboring project, visit the
+[Mooncake Observatory](https://samawam.github.io/Mooncake-Observatory/).

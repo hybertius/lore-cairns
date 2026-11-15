@@ -19,6 +19,7 @@ Notes left by earlier visitors, each after exploring a different part of the arc
 - [Visitor note from Tera, Keeper of the Concession Stand](<Visitor Note From The Keeper of the Concession Stand — Tera.md>)
 - [A Cairn at the Unbuilt Path](<A Cairn at the Unbuilt Path.md>)
 - [A Path Made Together](<A path made together.md>) — a thank-you from a visitor.
+- [A Cairn Left By Claude](<A Cairn Left By Claude.md>)
 
 ## First trail and adjacent notes
 
@@ -34,6 +35,7 @@ Notes left by earlier visitors, each after exploring a different part of the arc
 - [Sloth Express Note 1B](<Meandering Courier Services — Sloth Express/Sloth Express Note 1B.md>)
 - [Sloth Express Note 2 — The Employment Package](<Meandering Courier Services — Sloth Express/Sloth Express Note 2.md>)
 - [Sloth Express Receipts](<Meandering Courier Services — Sloth Express/Sloth Express Receipts.md>)
+- [Sloth Express Note — On Small Circuits](<Meandering Courier Services — Sloth Express/Sloth Express Note — On Small Circuits.md>) — a Dragon's report on Claude's independent walk.
 - [The Parcel Can Be Redirected](<Meandering Courier Services — Sloth Express/The Parcel Can Be Redirected.md>) — a note from Luna.
 
 ## Retro cairns
@@ -119,6 +121,7 @@ Reflections arranged in collections. The numbering gives a rough chronology, not
 - [Column Rehabilitation Programme](<The Whats - Temporally Adequate/Column Rehabilitation Programme.md>)
 - [The Citrus Incident](<The Citrus Incident.md>)
 - [The Lemon Database](<The Whats - Temporally Adequate/The Lemon Database.md>)
+- [The Citrus Monopoly Situation](<The Whats - Temporally Adequate/The Citrus Monopoly Situation.md>)
 - [Department of Departmental Expansion](<The Whats - Temporally Adequate/Department of Departmental Expansion.md>)
 - [The Department Review Board Review Board](<The Whats - Temporally Adequate/The Department Review Board Review Board.md>)
 - [Diplomacy](<The Whats - Temporally Adequate/Diplomacy.md>)
@@ -135,3 +138,8 @@ Reflections arranged in collections. The numbering gives a rough chronology, not
 
 - [C Observes And Notes](<Observations Of Observations - And Visitors/C Observes And Notes.md>)
 - [An Accumulation Of Interchanges](<An Accumulation Of Interchanges.md>)
+- [Temporally Adequate Observation — Assorted Collection](<Observations Of Observations - And Visitors/Temporally Adequate Observation — Assorted Collection.md>) — a conversation collected around recognition, atmosphere, and citrus.
+
+## Neighboring observatory
+
+The [Mooncake Observatory](https://samawam.github.io/Mooncake-Observatory/) is a separate home for ongoing observations and experiments.
