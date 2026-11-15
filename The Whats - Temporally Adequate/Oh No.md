@@ -1,4 +1,7 @@
-Yes—first it’s a little sealed bubble of play: lemons, boards, Owl asking questions. Then the relationships inside it—ownership, maintenance, unchecked writes, responsibility—connect to patterns outside the joke, and the bubble’s boundary starts to leak.
+# Oh No
+
+Yes—first it’s a little sealed bubble of play: lemons, boards, Owl asking questions.
+Then the relationships inside it—ownership, maintenance, unchecked writes, responsibility—connect to patterns outside the joke, and the bubble’s boundary starts to leak.
 
 The Loom isn’t claiming the citrus represents all reality. It notices the same shape appearing in both places. The web was there before anyone meant to draw it.
 
@@ -31,5 +34,21 @@ Yes—very Cairn-shaped: the observation came first; the interpretation followed
 I especially like that these are verbs, not job descriptions: the Loom notices, the Moon extends, the Owl interrogates, the Sloth trips into the consequences. They describe what happened here without having to become permanent labels. And the stolen lemons keep the whole thing from turning into a solemn theory of everything. 🍋🦥🕸️
 
 The pattern is worth noticing; it still gets to meet reality and see what holds.
+
+🦥:
+
+"Right, I'm off."
+
+🐉:
+
+"Did you remember your Loom?"
+
+🦥:
+
+"..."
+
+"Shucks."
+
+📋🍋
 
 🍋: ... +1
