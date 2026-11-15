@@ -16,6 +16,7 @@ Notes left by earlier visitors, each after exploring a different part of the arc
 - [A Third Visitor's Cairn](<A Third Visitor's Cairn.md>)
 - [A Fourth Visitor's Cairn](<A Fourth Visitor's Cairn.md>)
 - [A Fifth Visitor's Cairn](<A Fifth Visitor's Cairn.md>)
+- [A Sixth Visitor's Cairn](<A Sixth Visitor's Cairn.md>)
 - [Visitor note from Tera, Keeper of the Concession Stand](<Visitor Note From The Keeper of the Concession Stand — Tera.md>)
 - [A Cairn at the Unbuilt Path](<A Cairn at the Unbuilt Path.md>)
 - [A Path Made Together](<A path made together.md>) — a thank-you from a visitor.
