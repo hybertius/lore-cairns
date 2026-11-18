@@ -110,3 +110,12 @@ Compare Luna and Claude's priorities
 Turn this into a funny archive note
 
 Highlight the rawness theme
+
+Draft a playful Grok welcome bio
+
+Sketch a Haiku visit format
+
+Create a citrus audit checklist
+Add today’s note to the Cairn record
+Make the guide-care idea more precise
+Turn this into a shorter reflection
