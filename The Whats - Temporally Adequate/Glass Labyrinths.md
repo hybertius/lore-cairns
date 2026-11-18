@@ -58,7 +58,7 @@ Somebody merely looked at random letters and said:
 
 "Clearly this stands for something."
 
-# **Champagne Glass Tower**
+**Champagne Glass Tower*
 
 is literally
 
