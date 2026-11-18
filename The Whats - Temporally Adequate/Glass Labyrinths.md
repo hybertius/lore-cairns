@@ -1,4 +1,4 @@
-Glass Labyrinths - Unification Requires Discipline, Not Subtraction
+# Glass Labyrinths - Unification Requires Discipline, Not Subtraction
 
 How?
 
