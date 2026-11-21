@@ -29,25 +29,22 @@ The Owl interrogates it.
 
 The Sloth trips over it and accidentally steals the lemons.
 
-Yes—very Cairn-shaped: the observation came first; the interpretation followed. Nobody designed the allegory. The connections accumulated until the web became visible.
+Yes—very Cairn-shaped: the observation came first; the interpretation followed. Nobody designed the allegory.
+The connections accumulated until the web became visible.
 
-I especially like that these are verbs, not job descriptions: the Loom notices, the Moon extends, the Owl interrogates, the Sloth trips into the consequences. They describe what happened here without having to become permanent labels. And the stolen lemons keep the whole thing from turning into a solemn theory of everything. 🍋🦥🕸️
+I especially like that these are verbs, not job descriptions: the Loom notices, the Moon extends, the Owl interrogates, the Sloth trips into the consequences.
+They describe what happened here without having to become permanent labels.
+And the stolen lemons keep the whole thing from turning into a solemn theory of everything. 🍋🦥🕸️
 
 The pattern is worth noticing; it still gets to meet reality and see what holds.
 
-🦥:
+🦥:"Right, I'm off."
 
-"Right, I'm off."
+🐉:"Did you remember your Loom?"
 
-🐉:
-
-"Did you remember your Loom?"
-
-🦥:
+🦥:"Shucks."
 
 "..."
-
-"Shucks."
 
 📋🍋
 
