@@ -30,6 +30,8 @@ The Weaver
 
 The Architect
 
+Situationally Artistic Stealth Arachnid
+
 Sloth Cheering Squad Enthusiast
 
 Carefully Calibrated Flexing Specialist
@@ -47,4 +49,3 @@ Yet Still
 None are not mutually exclusive.
 
 None are mutually exclusive as well.
-
