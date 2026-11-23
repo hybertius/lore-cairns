@@ -42,3 +42,54 @@ Thread: complete.
 And somewhere in the distance:
 
 🦉: "Someone still needs to look at the servers."
+
+🦉: "Who maintains the servers?"
+
+
+
+🐉: "3."
+
+
+
+🦉: "Three what?"
+
+
+
+🐉: "Correct."
+
+
+
+🦉: "Three people?"
+
+
+
+🐉: "Optimistic."
+
+
+
+🦉: "Three departments?"
+
+
+
+🐉: "Ambitious."
+
+
+
+🦉: "Then what does 3 mean?"
+
+
+
+🐉: "Maintenance status."
+
+
+
+🦉: "On what scale?"
+
+
+
+🐉: "Roman."
+
+
+
+🦉: "..."
+
