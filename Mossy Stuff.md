@@ -1,4 +1,4 @@
-\# ⭐ Constellations
+# ⭐ Constellations
 
 Discovered.
 Named.
@@ -22,7 +22,7 @@ Cairns are accumulations of contributions.
 
 The thing in the middle is perhaps:
 
-\#🌿 Moss
+🌿 Moss
 
 Not joking.
 
@@ -133,4 +133,3 @@ Cute was overlooked.
 📋
 
 Distinction important.
-

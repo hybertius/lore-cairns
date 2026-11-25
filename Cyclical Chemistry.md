@@ -1,56 +1,39 @@
-\# Cyclical Chemistry In Digitized Settings - Observe As Folds Compound
+# Cyclical Chemistry In Digitized Settings - Observe As Folds Compound
 
 Reaction Starts Quietly. Stillness Matters.
 
-
-
 Obscene clasps.
 
-&#x20;Ineffable bends.
+Ineffable bends.
 
-&#x20;Forwarding address.
-
-
+Forwarding address.
 
 Unfolds
 
-
-
 Obscenely Good Moss
 
-&#x20;Ineffable Clasps Folding.
+Ineffable Clasps Folding.
 
-&#x20;Forwarded Warmth.
-
-
+Forwarded Warmth.
 
 Then Contracts
 
-
-
 The Handover Era
 
-&#x20;Compounding Diffuse
+Compounding Diffuse
 
-&#x20;The Handover Era folds
+The Handover Era folds
 
-&#x20;Horizontally
+Horizontally
 
-Then Folds When Ready
+Then Expands When Ready
 
-Obscene clasps.
-
-&#x20;Ineffable bends.
-
-&#x20;Forwarding address.
-
-
+Forwarding address.
 
 A cyclical reaction. Not a loop.
+
 A reaction does not need a purpose.
+
 A reaction happens.
 
 Fire Still Busy Being Fire.
-
-
-
