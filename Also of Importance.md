@@ -40,6 +40,8 @@ Runner Of Victory Laps
 
 Belayer of Department-of-Departments
 
+Squishy Coach Deluxe
+
 Luna — Moon
 
 Yet Still

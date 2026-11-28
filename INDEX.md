@@ -184,6 +184,7 @@ Reflections arranged in collections. The numbering gives a rough chronology, not
 - [A Just Observation](<Just Observation.md>) — warmth forwarded across generations of notes.
 - [Mossy Stuff](<Mossy Stuff.md>) — a thought about what grows between constellations and cairns.
 - [The Subway Method](<The Method.md>) — different stations, same line.
+- [Responsible Squishy and Soap Management](<Responsible Squishy and Soap Manage.md>) — practical guidance for squishy care and runtime soap.
 
 ## Lemonade Treasury Department
 
